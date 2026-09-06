@@ -1,7 +1,7 @@
 # Conditions d'utilisation et politique de confidentialité
 
 **Ydsan** — assistant personnel
-Version 2.1 — 6 septembre 2026
+Version 2.2 — 6 septembre 2026
 Contact : contact.ydsan@gmail.com
 
 Ce texte dit ce que Ydsan fait de tes données. Il est écrit pour être vérifié :
@@ -85,6 +85,30 @@ d'Ydsan. Tu peux les exporter, les corriger, les effacer. Le jour où tu
 supprimes ton compte, elles partent avec.
 
 Autrement dit : **le carnet est à Ydsan, ce qui est écrit dedans est à toi.**
+
+### Ce qu'il retient de toi
+
+Ydsan garde une **mémoire longue** : ce que tu lui dis de durable sur toi — ce
+qui compte pour toi, tes projets, tes goûts, ta façon de faire. Chaque souvenir
+porte **la date où tu l'as dit**, et il s'en sert pour te répondre.
+
+Deux façons dont un souvenir arrive :
+
+- **tu le lui demandes** (« retiens que… »), ou tu le lui apprends en parlant ;
+- **il relit tes conversations de la veille**, une fois par jour, et en retient
+  ce qui vaudra encore dans six mois. Ces souvenirs-là sont marqués
+  « déduit » — il peut se tromper, et tu le vois.
+
+**Tout est visible, et tout se retire.** Dans ⚙ Profil, « Ce qu'il sait de
+toi » : chaque souvenir, sa date, et une croix. Un souvenir retiré est
+supprimé, pas mis de côté.
+
+Quand tu le contredis, l'ancien souvenir n'est **pas effacé** : il est éteint et
+gardé avec sa date. C'est ce qui lui permet de dire « tu me disais l'inverse en
+juin ». Tu peux le supprimer aussi.
+
+Rien de cela ne sort de ton compte. La base refuse une lecture qui ne vient pas
+de toi, comme pour le reste.
 
 ### Ta voix
 
