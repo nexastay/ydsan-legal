@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="orbe.webp" alt="Ydsan" width="128">
+</p>
+
 # Ydsan — les documents publics
 
 **Ydsan** est un assistant personnel. Ce dépôt contient les textes qui doivent
