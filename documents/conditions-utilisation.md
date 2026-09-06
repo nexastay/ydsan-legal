@@ -1,7 +1,7 @@
 # Conditions d'utilisation et politique de confidentialité
 
 **Ydsan** — assistant personnel
-Version 2.2 — 6 septembre 2026
+Version 2.3 — 6 septembre 2026
 Contact : contact.ydsan@gmail.com
 
 Ce texte dit ce que Ydsan fait de tes données. Il est écrit pour être vérifié :
@@ -67,6 +67,14 @@ Ce que fait un agent, et ce qu'il ne fait pas :
 Une extension et son agent n'existent **que chez toi**. Aucun autre utilisateur
 ne les voit, et personne ne peut lire ce qu'il y a dedans.
 
+### Deux pages qui se lisent
+
+Tu peux **lier** deux de tes extensions pour qu'un agent croise les deux.
+C'est la seule exception à la règle « un agent ne connaît que sa page », et
+elle est entièrement entre tes mains : le lien se pose **à ta demande**, il va
+**dans un seul sens**, et la page liée est en **lecture seule**. Ydsan ne lie
+jamais deux pages de lui-même.
+
 ### À qui appartient ce qui est fabriqué
 
 Il faut distinguer deux choses, et la distinction est simple.
@@ -109,6 +117,51 @@ juin ». Tu peux le supprimer aussi.
 
 Rien de cela ne sort de ton compte. La base refuse une lecture qui ne vient pas
 de toi, comme pour le reste.
+
+### Ce qu'il te propose sans que tu demandes
+
+Ydsan regarde ton agenda, tes réveils et tes agents, et il peut te **proposer**
+quelque chose : « rendez-vous demain à 8 h 30, aucun réveil — je t'en pose
+un ? ». C'est du code qui remarque, pas une intelligence qui devine : chaque
+suggestion repose sur **une ligne qui existe déjà** dans ton compte, et rien
+n'est cherché à l'extérieur.
+
+Les règles, qui sont dans le logiciel et pas seulement dans ce texte :
+
+- **deux par jour au maximum**, et jamais deux fois la même chose ;
+- ça s'affiche **dans l'application**, au-dessus du champ de saisie — pas en
+  notification qui sonne ;
+- **« Jamais ça »** éteint ce genre de suggestion pour toujours, sans
+  discussion ;
+- tu peux tout couper dans ton profil (`non`, `discret`, `actif` — *discret*
+  par défaut).
+
+Répondre « oui » n'exécute rien tout seul : la phrase part **dans la
+conversation**, comme si tu l'avais écrite, et Ydsan agit ensuite normalement.
+
+### Les sujets que tu lui fais suivre
+
+Tu peux lui demander de **suivre un sujet** : « surveille le prix des billets
+pour Alger ». Il fait alors **une recherche par jour** sur ce sujet-là, en son
+nom à lui — la requête part de la machine qui fait tourner Ydsan, pas de ton
+téléphone.
+
+Ce qu'il en garde : le **titre**, l'**extrait** et l'**adresse** du résultat,
+tels que le moteur les a écrits. Rien n'est reformulé, rien n'est résumé,
+aucun modèle n'intervient — c'est ce qui garantit que la source est réelle.
+
+- **Trois sujets au maximum**, et seulement ceux que tu as nommés. Ydsan ne
+  met jamais un sujet sous surveillance de lui-même.
+- Tu l'arrêtes quand tu veux ; ce qu'il avait trouvé reste consultable.
+- Aucune information sur toi ne part dans la recherche : il cherche le sujet,
+  pas toi.
+
+### Envoyer un message hors d'Ydsan
+
+Quand tu lui demandes d'écrire à quelqu'un sur WhatsApp, par SMS ou par
+courriel, il **ouvre l'application avec le message déjà écrit**. Il ne l'envoie
+pas : le bouton reste sous ton doigt. Rien ne quitte ton téléphone tant que tu
+n'as pas appuyé.
 
 ### Ta voix
 
@@ -233,4 +286,4 @@ continue : il tourne sur une machine qui peut être éteinte. Un compte peut êt
 fermé en cas d'usage manifestement abusif — spam, tentative d'accès aux données
 d'autrui, contenu illégal.
 
-*Dernière mise à jour : 6 septembre 2026.*
+*Dernière mise à jour : 6 septembre 2026 (2.3).*
