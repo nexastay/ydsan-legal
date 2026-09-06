@@ -1,7 +1,7 @@
 # Conditions d'utilisation et politique de confidentialité
 
 **Ydsan** — assistant personnel
-Version 2.0 — 5 septembre 2026
+Version 2.1 — 6 septembre 2026
 Contact : contact.ydsan@gmail.com
 
 Ce texte dit ce que Ydsan fait de tes données. Il est écrit pour être vérifié :
@@ -45,10 +45,46 @@ en **supprimer** n'importe laquelle depuis l'application.
 ### Ce que tu crées dans l'application
 
 Contacts, messages, réveils, minuteurs, fuseaux suivis, rendez-vous, rappels,
-documents et images fabriqués à ta demande. Ils t'appartiennent, et **toi seul**
-les lis : la base refuse une lecture qui ne vient pas de ton compte
-(*Row Level Security*), ce n'est pas une promesse mais une règle appliquée par
-le moteur de base de données.
+documents et images fabriqués à ta demande, **extensions** et **agents**. Ils
+t'appartiennent, et **toi seul** les lis : la base refuse une lecture qui ne
+vient pas de ton compte (*Row Level Security*), ce n'est pas une promesse mais
+une règle appliquée par le moteur de base de données.
+
+### Les extensions et les agents
+
+Tu peux demander à Ydsan de te **fabriquer une page** — un suivi de dépenses,
+un carnet de recettes, une liste — et d'y attacher un **agent** qui se réveille
+tout seul pour y ajouter une ligne.
+
+Ce que fait un agent, et ce qu'il ne fait pas :
+
+- il ne connaît **que sa page**. Ni tes contacts, ni tes messages, ni tes
+  réveils, ni ton agenda, ni les autres extensions ;
+- il **ne va pas sur internet** et ne communique avec personne ;
+- il n'écrit **qu'à toi**, dans ta page, et te prévient par une notification ;
+- tu peux l'**éteindre** ou le supprimer à tout moment depuis sa page.
+
+Une extension et son agent n'existent **que chez toi**. Aucun autre utilisateur
+ne les voit, et personne ne peut lire ce qu'il y a dedans.
+
+### À qui appartient ce qui est fabriqué
+
+Il faut distinguer deux choses, et la distinction est simple.
+
+**Le logiciel reste à Ydsan.** L'application, ses pages, la façon dont une
+extension est construite et affichée, le mécanisme des agents, le code qui fait
+tout cela : c'est la propriété de l'éditeur d'Ydsan. Tu en as un **droit
+d'usage** pendant la durée de ton abonnement — tu ne peux ni le revendre, ni le
+copier, ni le redistribuer. Une extension fabriquée pour toi n'est pas un
+produit que tu peux commercialiser.
+
+**Ce que tu mets dedans est à toi.** Les lignes que tu saisis, celles que ton
+agent ajoute pour toi, les noms que tu donnes, ce que tu écris : ce sont **tes
+données**, elles t'appartiennent, et rien de tout cela ne devient la propriété
+d'Ydsan. Tu peux les exporter, les corriger, les effacer. Le jour où tu
+supprimes ton compte, elles partent avec.
+
+Autrement dit : **le carnet est à Ydsan, ce qui est écrit dedans est à toi.**
 
 ### Ta voix
 
@@ -120,6 +156,8 @@ empreinte** — seulement les phrases échangées et un identifiant de compte.
 ## 6. Ce qui n'est jamais fait
 
 - Tes données ne sont **ni vendues, ni louées, ni partagées** avec un tiers.
+- Le contenu de tes extensions n'est **jamais** relu, agrégé ni réutilisé pour
+  autre chose que te l'afficher et permettre à ton agent d'y écrire.
 - Aucune publicité, aucun profilage publicitaire, aucun traceur.
 - Aucun échange n'est lu pour autre chose que te répondre — et, si tu l'as
   accepté, pour améliorer le service.
